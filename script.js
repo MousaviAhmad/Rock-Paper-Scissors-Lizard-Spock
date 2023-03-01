@@ -42,7 +42,8 @@ function resetSelected() {
 }
 
 // Reset score & playerChoice/computerChoice
-function resetAll() {¨
+function resetAll() {
+
 }
 
 
